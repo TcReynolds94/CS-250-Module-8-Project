@@ -1,8 +1,10 @@
-1. How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
-   fd
-
-2. How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
-   fd
-  
-3. What does it mean to be a good team member in software development?
-   sd
+1.	How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+   a.	I interpret user needs by listening and understanding what the user is saying. I clarify what the user needs and what they want. This differentiation will allow me to focus on what the user really needs, instead of          features that can be labeled as nice-to-have. Once that is done, user stories help break large tasks into smaller and more manageable tasks that present a much clearer picture as to what needs to be done to fully            accomplish the task.
+  	
+2.	How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+   a.	When it comes to taking an Agile approach to developing programs, communication, flexibility and ensuring that a functional product is delivered at the end of the designated time is what sets this approach apart from        a traditional Waterfall method. Constant communication between the product owner and stakeholders ensures that the stakeholders stay informed on project progress, and the product owner is aware of what stakeholders          expect. This communication is then shared with the team, so they are aware of all requirements, expectations, and changes for the program.
+  	
+   b.	To successfully implement an agile approach in my future development work, I plan on implementing Sprint Planning, Daily Scrum meetings, and Sprint Reviews and Retrospectives. Incorporating these process helps               ensure the entire team, as well as the stakeholders will be aware of the progress of the project every step of the way. For the program itself, I would incorporate processes such as pair programming and continuous           integration. One of the core principles of programming is to test as often as you can to ensure everything is working. Adding pair programming allows for someone other than yourself to work with the program and gives        you both the ability to check each other’s work as you move through the programs development.
+   
+3.	What does it mean to be a good team member in software development?
+   a.	Being a good team member means healthy communication between yourself and the rest of the team. Without good communication, the level of collaboration required in any team is severely limited. Agile also encourages          team members to work with each other to solve problems.  I believe this is important whether you are following an Agile method or not. Being willing to help and, sometimes more importantly, accept help, is essential         to the entire team being successful. This process allows the entire team to grow and learn together, which further strengthens their ability to collaborate on future projects.
